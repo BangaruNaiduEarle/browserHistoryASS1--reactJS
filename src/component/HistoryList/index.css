@@ -1,0 +1,15 @@
+.list-item-style {
+  list-style-type: none;
+  display: flex;
+}
+.titles-style {
+  display: flex;
+  flex-wrap: wrap;
+}
+.domain-title {
+  margin-right: 30px;
+}
+.delete {
+  height: 20px;
+  align-self: center;
+}

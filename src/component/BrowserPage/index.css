@@ -1,0 +1,38 @@
+.heading-bgContainer {
+  background-color: #3367d6;
+  display: flex;
+  align-items: center;
+  padding: 30px;
+}
+.logo-history {
+  margin-right: 100px;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-search {
+  height: 30px;
+  width: 30px;
+  border: 2px solid #475569;
+  margin-top: 4px;
+  background-color: #2850a7;
+  align-self: center;
+}
+
+.input-search {
+  height: 30px;
+  width: 24vw;
+  border: 2px solid #475569;
+  padding: 8px;
+  background-color: #2850a7;
+}
+.unOrderListContainer {
+  padding: 30px;
+}
+.unOrderList {
+  padding-left: 0px;
+}
